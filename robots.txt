@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digiminar.github.io/sitemap.xml
